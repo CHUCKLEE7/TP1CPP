@@ -1,0 +1,10 @@
+-IC:\WINBBB\include
+-Ic:\WINBBB\include\c++\4.8.3
+-Ic:\WINBBB\include\c++\4.8.3\i686-w64-mingw32
+-Ic:\WINBBB\include\c++\4.8.3\backward
+-Ic:\WINBBB\lib\gcc\i686-w64-mingw32\4.8.3\include
+-Ic:\WINBBB\lib\gcc\i686-w64-mingw32\4.8.3\include-fixed
+-Ic:\WINBBB\i686-w64-mingw32\include
+-IC:\Users\lawali\Documents\TP1_CPP_GIT\TP1_CPP_MAJID_LAWALI
+-target
+i686-pc-windows-gnu
